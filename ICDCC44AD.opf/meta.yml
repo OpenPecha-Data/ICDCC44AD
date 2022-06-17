@@ -1,0 +1,78 @@
+id: ICDCC44AD
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T12:24:13.981795'
+last_modified: '2022-06-17T12:24:13.981806'
+parser: null
+source_metadata:
+  title: Lamrim Series
+  language: es
+  description: Texts on the subject of the graduated path (lam rim), which was introduced
+    to Tibet by Atiśa in his most important work Lamp for the Path of Awakening (Bodhipathapradīpa)
+    and subsequently adopted by all schools of Tibetan Buddhism, especially the Kadam
+    and Gelug.
+  volume:
+    f3C95:
+      title: The Lamp for the Path to Enlightenment
+      base_file: f3C95.txt
+      order: 1
+      parent: Advice
+    f900E:
+      title: 'A Precious Garland for the Supreme Path of the Three Types of Individual:
+        The Root of Dakpo''s Four Dharmas'
+      base_file: f900E.txt
+      order: 2
+      parent: Advice
+    f99D3:
+      title: 'Sweet Nectar of the Supreme Vehicle: A Synopsis of the Stages of the
+        Mahāyāna Path'
+      base_file: f99D3.txt
+      order: 3
+      parent: Advice
+    f4BC2:
+      title: 'The Essence of Nectar: Graduated Stages of the Path — Advice for Renunciant
+        Meditators'
+      base_file: f4BC2.txt
+      order: 4
+      parent: Advice
+    f37EE:
+      title: Three Principal Aspects of the Path
+      base_file: f37EE.txt
+      order: 5
+      parent: Advice
+    f977A:
+      title: A Brief Commentary on the Twelve Stanzas (Including the Divisions of
+        the Stages of the Path for Individuals of the Three Capacities)
+      base_file: f977A.txt
+      order: 6
+      parent: Commentaries
+    f317F:
+      title: 'A Few Words of Commentary to Clarify The Essence of Nectar: Graduated
+        Stages of the Path—Advice for Renunciant Meditators'
+      base_file: f317F.txt
+      order: 7
+      parent: Commentaries
+    f0D76:
+      title: 'The Swift Infusion of Blessings: A Prayer and Aspiration for the Stages
+        of the Path Combined with Guru Yoga'
+      base_file: f0D76.txt
+      order: 8
+      parent: Guru Yoga
+    fBA8A:
+      title: Aspiration for the Stages of the Path
+      base_file: fBA8A.txt
+      order: 9
+      parent: Prayers
+    fA847:
+      title: The Foundation of All Qualities
+      base_file: fA847.txt
+      order: 10
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
